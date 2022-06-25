@@ -1,0 +1,387 @@
+	OpenInterest = [0]		LastUpdateTime = 11:01:37	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice =	Turnover = [44280131660.00000000]		Turnover = [44280528460.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:38	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111684]		Turnover = [44281322060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:39	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111684]		Turnover = [44281322060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:40	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111688]		Turnover = [44282909180.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:41	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+<RegisterSpi>
+	TradingDay = [20220516]	</RegisterSpi>
+	InstrumentID = [au2206]		ExchangeID = [SHFE]	<SubscribePrivateTopic>
+	LastPrice = [396.78000000]		nResumeType [2]
+	PreSettlementPrice = [401.42000000]	</SubscribePrivateTopic>
+	OpenPrice = [396.62000000]		Volume = [111688]	<SubscribePublicTopic>
+	Turnover = [44282909180.00000000]		nResumeType [2]
+	OpenInterest = [0]	</SubscribePublicTopic>
+	LastUpdateTime = 11:01:43	</OnRtnDepthMarketData>
+<RegisterFront>
+	pszFrontAddress [tcp://122.51.136.165:20002]
+<OnRtnDepthMarketData>
+</RegisterFront>
+	TradingDay = [20220516]	<Init>
+	InstrumentID = [au2206]	</Init>
+	ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111688]		Turnover = [44282909180.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:46	</OnRtnDepthMarketData>
+4.报入一笔立即单
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111693]		Turnover = [44284893080.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:46	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111696]		Turnover = [44286083360.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:47	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111696]		Turnover = [44286083360.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:48	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111697]		Turnover = [44286480120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:48	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111697]		Turnover = [44286480120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:49	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111698]		Turnover = [44286876920.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:51	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111698]		Turnover = [44286876920.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:52	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111699]		Turnover = [44287273700.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:56	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111701]		Turnover = [44288067260.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:56	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111701]		Turnover = [44288067260.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:57	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111702]		Turnover = [44288464060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:58	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111702]		Turnover = [44288464060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:01:59	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111702]		Turnover = [44288464060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:01	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.80000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111703]		Turnover = [44288860860.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:01	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111709]		Turnover = [44291241580.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:02	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111715]		Turnover = [44293622160.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:02	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111718]		Turnover = [44294812500.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:03	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111720]		Turnover = [44295606060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:03	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111722]		Turnover = [44296399620.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:04	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111724]		Turnover = [44297193180.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:04	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111765]		Turnover = [44313459620.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:07	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111784]		Turnover = [44320997680.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:07	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111784]		Turnover = [44320997680.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:08	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111784]		Turnover = [44320997680.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:08	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111787]		Turnover = [44322187860.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:09	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111787]		Turnover = [44322187860.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:09	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111793]		Turnover = [44324568280.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:10	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111796]		Turnover = [44325758560.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:10	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111797]		Turnover = [44326155300.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:11	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111801]		Turnover = [44327742180.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:11	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111801]		Turnover = [44327742180.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:12	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111815]		Turnover = [44333296260.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:12	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111816]		Turnover = [44333692980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:13	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111816]		Turnover = [44333692980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:13	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111816]		Turnover = [44333692980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:14	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111821]		Turnover = [44335676580.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:15	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111840]		Turnover = [44343213880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:16	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111868]		Turnover = [44354321420.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:16	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111873]		Turnover = [44356304980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:17	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111875]		Turnover = [44357098400.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:17	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111875]		Turnover = [44357098400.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:18	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111876]		Turnover = [44357495120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:19	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111877]		Turnover = [44357891820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:19	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111877]		Turnover = [44357891820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:20	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111880]		Turnover = [44359082040.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:21	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111882]		Turnover = [44359875460.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:21	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111883]		Turnover = [44360272160.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:22	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111883]		Turnover = [44360272160.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:22	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111889]		Turnover = [44362652380.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:23	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111891]		Turnover = [44363445820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:23	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111894]		Turnover = [44364635980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:24	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111899]		Turnover = [44366619580.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:24	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111901]		Turnover = [44367412980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:25	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.68000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111908]		Turnover = [44370189780.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:25	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.68000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111910]		Turnover = [44370983140.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:26	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.68000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111911]		Turnover = [44371379820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:26	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111912]		Turnover = [44371776520.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:27	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111912]		Turnover = [44371776520.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:27	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111917]		Turnover = [44373760020.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:28	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111917]		Turnover = [44373760020.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:28	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111921]		Turnover = [44375346820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:29	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111921]		Turnover = [44375346820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:29	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111922]		Turnover = [44375743520.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:30	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111927]		Turnover = [44377727120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:30	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111927]		Turnover = [44377727120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:31	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111927]		Turnover = [44377727120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:31	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111927]		Turnover = [44377727120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:32	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111936]		Turnover = [44381297540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:32	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111936]		Turnover = [44381297540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:33	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111936]		Turnover = [44381297540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:34	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111936]		Turnover = [44381297540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:34	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111941]		Turnover = [44383281040.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:36	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111941]		Turnover = [44383281040.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:36	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111941]		Turnover = [44383281040.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:37	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111942]		Turnover = [44383677740.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:39	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111942]		Turnover = [44383677740.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:39	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111945]		Turnover = [44384867900.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:41	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111952]		Turnover = [44387644940.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:41	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111966]		Turnover = [44393199020.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:42	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111968]		Turnover = [44393992420.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:42	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111968]		Turnover = [44393992420.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:43	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111971]		Turnover = [44395182520.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:43	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111971]		Turnover = [44395182520.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:44	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.68000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111977]		Turnover = [44397562600.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:46	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.68000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111977]		Turnover = [44397562600.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:46	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111980]		Turnover = [44398752700.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:47	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111980]		Turnover = [44398752700.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:47	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.68000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111981]		Turnover = [44399149380.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:50	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.68000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111981]		Turnover = [44399149380.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:50	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111986]		Turnover = [44401132980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:51	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111986]		Turnover = [44401132980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:52	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111986]		Turnover = [44401132980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:52	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111986]		Turnover = [44401132980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:53	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111986]		Turnover = [44401132980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:53	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111986]		Turnover = [44401132980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:56	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111986]		Turnover = [44401132980.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:57	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111992]		Turnover = [44403513180.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:57	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111993]		Turnover = [44403909900.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:58	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111993]		Turnover = [44403909900.00000000]		OpenInterest = [0]		LastUpdateTime = 11:02:59	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [111993]		Turnover = [44403909900.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:00	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112005]		Turnover = [44408670740.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:01	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112015]		Turnover = [44412638140.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:01	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112015]		Turnover = [44412638140.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:02	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112018]		Turnover = [44413828360.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:02	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112019]		Turnover = [44414225100.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:03	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112021]		Turnover = [44415018580.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:03	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112021]		Turnover = [44415018580.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:04	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112021]		Turnover = [44415018580.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:04	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112021]		Turnover = [44415018580.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:06	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112022]		Turnover = [44415415340.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:10	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112026]		Turnover = [44417002220.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:11	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112026]		Turnover = [44417002220.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:11	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112026]		Turnover = [44417002220.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:12	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112026]		Turnover = [44417002220.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:12	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112027]		Turnover = [44417398960.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:14	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112027]		Turnover = [44417398960.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:15	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112028]		Turnover = [44417795680.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:15	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112028]		Turnover = [44417795680.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:16	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112031]		Turnover = [44418985900.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:16	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112032]		Turnover = [44419382620.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:18	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112032]		Turnover = [44419382620.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:19	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112032]		Turnover = [44419382620.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:20	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112050]		Turnover = [44426523940.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:20	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112050]		Turnover = [44426523940.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:21	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112051]		Turnover = [44426920680.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:22	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112052]		Turnover = [44427317420.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:22	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112056]		Turnover = [44428904300.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:23	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112056]		Turnover = [44428904300.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:23	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112059]		Turnover = [44430094460.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:24	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112060]		Turnover = [44430491180.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:24	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112066]		Turnover = [44432871380.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:26	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112071]		Turnover = [44434854900.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:26	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.70000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112071]		Turnover = [44434854900.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:27	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112072]		Turnover = [44435251620.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:27	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112072]		Turnover = [44435251620.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:28	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112073]		Turnover = [44435648340.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:28	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112074]		Turnover = [44436045060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:29	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112074]		Turnover = [44436045060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:29	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112074]		Turnover = [44436045060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:30	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.72000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112074]		Turnover = [44436045060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:30	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112076]		Turnover = [44436838540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:31	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112076]		Turnover = [44436838540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:32	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112076]		Turnover = [44436838540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:32	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112076]		Turnover = [44436838540.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:34	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112080]		Turnover = [44438425500.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:35	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112083]		Turnover = [44439615780.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:36	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112083]		Turnover = [44439615780.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:37	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112100]		Turnover = [44446360700.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:37	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112100]		Turnover = [44446360700.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:38	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112100]		Turnover = [44446360700.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:38	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112103]		Turnover = [44447551040.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:40	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112107]		Turnover = [44449138080.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:40	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112107]		Turnover = [44449138080.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:41	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112107]		Turnover = [44449138080.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:41	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112108]		Turnover = [44449534820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:43	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112108]		Turnover = [44449534820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:44	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112110]		Turnover = [44450328300.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:44	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112112]		Turnover = [44451121780.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:45	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112115]		Turnover = [44452312060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:47	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112115]		Turnover = [44452312060.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:48	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112116]		Turnover = [44452708820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:49	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112116]		Turnover = [44452708820.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:50	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.78000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112128]		Turnover = [44457469880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:50	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112129]		Turnover = [44457866640.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:51	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112130]		Turnover = [44458263380.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:51	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112130]		Turnover = [44458263380.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:52	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112131]		Turnover = [44458660120.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:53	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112132]		Turnover = [44459056880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:56	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112132]		Turnover = [44459056880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:57	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112136]		Turnover = [44460643920.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:57	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112136]		Turnover = [44460643920.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:58	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.76000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112136]		Turnover = [44460643920.00000000]		OpenInterest = [0]		LastUpdateTime = 11:03:58	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112140]		Turnover = [44462230880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:02	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112140]		Turnover = [44462230880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:03	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112140]		Turnover = [44462230880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:03	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112140]		Turnover = [44462230880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:04	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112140]		Turnover = [44462230880.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:04	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112142]		Turnover = [44463024360.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:05	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112142]		Turnover = [44463024360.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:05	</OnRtnDepthMarketData>
+<OnRtnDepthMarketData>
+	TradingDay = [20220516]		InstrumentID = [au2206]		ExchangeID = [SHFE]		LastPrice = [396.74000000]		PreSettlementPrice = [401.42000000]		OpenPrice = [396.62000000]		Volume = [112142]		Turnover = [44463024360.00000000]		OpenInterest = [0]		LastUpdateTime = 11:04:08	</OnRtnDepthMarketData>
